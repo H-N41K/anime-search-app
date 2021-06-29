@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/H-N41K.github.io/anime-search-app/static/css/main.e3ad0c2c.chunk.css",
-    "main.js": "/H-N41K.github.io/anime-search-app/static/js/main.8ec5a949.chunk.js",
-    "main.js.map": "/H-N41K.github.io/anime-search-app/static/js/main.8ec5a949.chunk.js.map",
-    "runtime-main.js": "/H-N41K.github.io/anime-search-app/static/js/runtime-main.0a04fa62.js",
-    "runtime-main.js.map": "/H-N41K.github.io/anime-search-app/static/js/runtime-main.0a04fa62.js.map",
-    "static/js/2.7fadba66.chunk.js": "/H-N41K.github.io/anime-search-app/static/js/2.7fadba66.chunk.js",
-    "static/js/2.7fadba66.chunk.js.map": "/H-N41K.github.io/anime-search-app/static/js/2.7fadba66.chunk.js.map",
-    "index.html": "/H-N41K.github.io/anime-search-app/index.html",
-    "static/css/main.e3ad0c2c.chunk.css.map": "/H-N41K.github.io/anime-search-app/static/css/main.e3ad0c2c.chunk.css.map",
-    "static/js/2.7fadba66.chunk.js.LICENSE.txt": "/H-N41K.github.io/anime-search-app/static/js/2.7fadba66.chunk.js.LICENSE.txt"
+    "main.css": "/anime-search-app/static/css/main.e3ad0c2c.chunk.css",
+    "main.js": "/anime-search-app/static/js/main.8ec5a949.chunk.js",
+    "main.js.map": "/anime-search-app/static/js/main.8ec5a949.chunk.js.map",
+    "runtime-main.js": "/anime-search-app/static/js/runtime-main.68d443c8.js",
+    "runtime-main.js.map": "/anime-search-app/static/js/runtime-main.68d443c8.js.map",
+    "static/js/2.7fadba66.chunk.js": "/anime-search-app/static/js/2.7fadba66.chunk.js",
+    "static/js/2.7fadba66.chunk.js.map": "/anime-search-app/static/js/2.7fadba66.chunk.js.map",
+    "index.html": "/anime-search-app/index.html",
+    "static/css/main.e3ad0c2c.chunk.css.map": "/anime-search-app/static/css/main.e3ad0c2c.chunk.css.map",
+    "static/js/2.7fadba66.chunk.js.LICENSE.txt": "/anime-search-app/static/js/2.7fadba66.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0a04fa62.js",
+    "static/js/runtime-main.68d443c8.js",
     "static/js/2.7fadba66.chunk.js",
     "static/css/main.e3ad0c2c.chunk.css",
     "static/js/main.8ec5a949.chunk.js"
